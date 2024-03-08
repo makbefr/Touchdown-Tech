@@ -6,4 +6,5 @@ We have also curated a sample ai model that gives you a bit of insight into what
 The ai model is limited to pre-downloaded videos and is not structured to take in user input.
   - The ai model is trained for the purposes of this one video.
   - This ai model uses image recognition(color recognition) to analyze an NFL play.
+  - This model uses a pretrained ai model 'cv2'. 
 Please download all files included to get the full experience, you should have all files easily accessible in order to utilize the ai model. We will include the video you should use, it is typically best to use a repository that is fully compatible with the python library for best performance. 
